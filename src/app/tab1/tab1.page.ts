@@ -9,8 +9,8 @@ export class Tab1Page {
 
 
   User = [
-    {"name": "Klenam"},
-]
+    {'name': 'Klenam'},
+];
   constructor() {}
 
 }
